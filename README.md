@@ -1,2 +1,2 @@
 # Live_Streaming
-Code for Real time Communication(RTM) and real time messaging(RTC) with Agora
+Code for Real Time Communication(RTC) and Real Time Messaging(RTM) with Agora
