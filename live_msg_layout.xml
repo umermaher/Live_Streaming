@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/msg_text_bg"
+    android:padding="8dp"
+    android:paddingStart="25dp"
+    android:layout_margin="5sp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nameText"
+        tools:text="Umer Mahar"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Umer Mahar"
+        android:textColor="@color/white"
+        android:id="@+id/messageText"
+        android:textSize="14dp"/>
+</LinearLayout>
